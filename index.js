@@ -13,7 +13,7 @@ function createP(){
     var place = random(0,screen.availWidth*2)
     const delay = random(100,500)
     const duration = random(3000,10000) 
-    var trasition = random(30,column)
+    var trasition = random(30,column*4)
     var content = []
 
 
